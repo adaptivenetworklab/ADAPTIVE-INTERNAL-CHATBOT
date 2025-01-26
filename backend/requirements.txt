@@ -1,0 +1,9 @@
+flask
+Flask-RESTful
+requests
+python-dotenv
+langchain
+langchain-core
+langchain-chroma
+langchain-community
+openai
